@@ -5,6 +5,7 @@
 易見是一套《易經》入門課程的 iPhone App：八堂課從陰陽講起，再逐卦讀完六十四卦；前三堂免費；繁體中文與英文；不需註冊，資料只存手機。
 
 ## Key facts
+- Status: in App Store review (October 2026)
 - Platform: iPhone (iOS 17+)
 - Languages: Traditional Chinese, English
 - Price: free first three lessons; membership NT$120/month or NT$990/year
@@ -15,3 +16,8 @@
 - [App overview (zh-Hant / en)](https://mm7382.github.io/yijian/)
 - [Privacy policy](https://mm7382.github.io/legal/yijian/privacy)
 - [Terms of use](https://mm7382.github.io/legal/yijian/terms)
+
+## Curriculum (8 beginner lessons)
+1. Yin and yang, line order  2. The eight trigrams  3. How 64 hexagrams are built  4. Changing lines
+5. Primary and resulting hexagrams  6. Judgments and line texts  7. What a reading can and cannot tell you  8. Full worked case
+Then: guided reading of all 64 hexagrams (diagram, plain-language explanation, worked example, interactive figure, 3 quiz questions each).
