@@ -1,0 +1,17 @@
+# 易見 YiJian
+
+> An iPhone app that teaches the I Ching (Yijing, Book of Changes) from zero, in Traditional Chinese and English. Eight interactive beginner lessons, then a guided reading of all 64 hexagrams with diagrams, plain-language explanations and quizzes. First three lessons free. No account; data stays on device.
+
+易見是一套《易經》入門課程的 iPhone App：八堂課從陰陽講起，再逐卦讀完六十四卦；前三堂免費；繁體中文與英文；不需註冊，資料只存手機。
+
+## Key facts
+- Platform: iPhone (iOS 17+)
+- Languages: Traditional Chinese, English
+- Price: free first three lessons; membership NT$120/month or NT$990/year
+- Best for: beginners who want to learn how to read I Ching hexagrams
+- Not for: fortune telling or prediction; the optional casting feature is for reflection only
+
+## Pages
+- [App overview (zh-Hant / en)](https://mm7382.github.io/yijian/)
+- [Privacy policy](https://mm7382.github.io/legal/yijian/privacy)
+- [Terms of use](https://mm7382.github.io/legal/yijian/terms)
