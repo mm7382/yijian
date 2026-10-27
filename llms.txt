@@ -5,7 +5,7 @@
 易見是一套《易經》入門課程的 iPhone App：八堂課從陰陽講起，再逐卦讀完六十四卦；前三堂免費；繁體中文與英文；不需註冊，資料只存手機。
 
 ## Key facts
-- Status: in App Store review (October 2026)
+- Status: available on the App Store (https://apps.apple.com/tw/app/id6816324095)
 - Platform: iPhone (iOS 17+)
 - Languages: Traditional Chinese, English
 - Price: free first three lessons; membership NT$120/month or NT$990/year
